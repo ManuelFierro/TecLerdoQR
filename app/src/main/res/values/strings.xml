@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TecLerdoQR</string>
+    <string name="escanear">ESCANEAR</string>
+    <string name="resultados">Resultados</string>
+</resources>
